@@ -95,3 +95,8 @@ Below you can find the list of the Python Standard Modules linked to its folder:
   - [ ] `json`: JavaScript Object Notation ([see codes](./Internet/__json/))
   - [ ] `xmlrpc.client`: Client Library for XML-RPC ([see codes](./Internet/__xmlrpc_client/))
   - [ ] `xmlrpc.server`: An XML-RPC Server ([see codes](./Internet/__xmlrpc_server/))
+- [ ] **Email** ([see codes](./Email/)
+  - [ ] `smtplib`: Simple Mail Transfer Protocol Client ([see codes](./Email/__smtlib/))
+  - [ ] `smtpd`: Sample Mail Servers ([see codes](./Email/__smtpd/))
+  - [ ] `mailbox`: Manipulate Email Archives ([see codes](./Email/__mailbox/))
+  - [ ] `imaplib`: IMAP4 Client Library ([see codes](./Email/__imaplib/))
