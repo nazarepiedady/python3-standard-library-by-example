@@ -1,7 +1,7 @@
 ## The Python 3 Standard Library by Example
 
 In this repository you will find the code examples produced during the studies 
-of the [Doug Hellmann]() book and [articles series]() about the usage and 
+of the [Doug Hellmann](https://github.com/dhellmann) book and [articles series](http://pymotw.com/3/) about the usage and 
 meaning of the Python 3 standard library modules.
 
 The code here will be updated along the time to observe a more actual version 
