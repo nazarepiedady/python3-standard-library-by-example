@@ -138,3 +138,8 @@ Below you can find the list of the Python Standard Modules linked to its folder:
   - [ ] `resource`: System Resource Management ([see codes](./Runtime_Features/__resource/))
   - [ ] `gc`: Garbage Collector ([see codes](./Runtime_Features/__gc/))
   - [ ] `sysconfig`: Interpreter Compile-Time Configuration ([see codes](./Runtime_Features/__sysconfig/))
+- [ ] **Language Tools** ([see codes](./Language_Tools/))
+  - [ ] `warnings`: Non-fatal Alerts ([see codes](./Language_Tools/__warnings/))
+  - [ ] `abc`: Abstract Base Classes ([see codes](./Language_Tools/__abc/))
+  - [ ] `dis`: Python Byte-Code Disassembler ([see codes](./Language_Tools/__dis/))
+  - [ ] `inspect`: Inspect Live Objects ([see codes](./Language_Tools/__inspect/))
