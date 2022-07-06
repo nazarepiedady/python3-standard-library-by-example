@@ -143,3 +143,7 @@ Below you can find the list of the Python Standard Modules linked to its folder:
   - [ ] `abc`: Abstract Base Classes ([see codes](./Language_Tools/__abc/))
   - [ ] `dis`: Python Byte-Code Disassembler ([see codes](./Language_Tools/__dis/))
   - [ ] `inspect`: Inspect Live Objects ([see codes](./Language_Tools/__inspect/))
+- [ ] **Modules and Packages** ([see codes](./Modules_and_Packages/))
+  - [ ] `importlib`: Python's Import Mechanism ([see codes](./Modules_and_Packages/__importlib/))
+  - [ ] `pkgutil`: Package Utilities ([see codes](./Modules_and_Packages/__pkgutil/))
+  - [ ] `zipimport`: Load Python Code from ZIP Archives ([see codes](./Modules_and_Packages/__zipimport/))
