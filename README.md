@@ -32,3 +32,7 @@ Below you can find the list of the Python Standard Modules linked to its folder:
   - [ ] `itertools`: Iterator Functions ([see codes](./Algorithms/__itertools/))
   - [ ] `operator`: Functional Interface to Built-in Operators ([see codes](./Algorithms/__operator/))
   - [ ] `contextlib`: Context Manager Utilities ([see codes](./Algorithms/__contextlib/))
+- [ ] **Dates and Times** ([see codes](./Dates_and_Times/))
+  - [ ] `time`: Clock Time ([see codes](./Dates_and_Times/__time/))
+  - [ ] `datetime`: Date and Time Value Manipulation ([see codes](./Dates_and_Times/__datetime/))
+  - [ ] `calendar`: Work with Dates ([see codes](./Dates_and_Times/__calendar/))
