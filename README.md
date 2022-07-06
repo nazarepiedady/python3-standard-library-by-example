@@ -27,3 +27,8 @@ Below you can find the list of the Python Standard Modules linked to its folder:
   - [ ] `weakref`: Impermanent References to Objects ([see codes](./Data_Structures/__weakref/))
   - [ ] `copy`: Duplicate Objects ([see codes](./Data_Structures/__copy/))
   - [ ] `pprint`: Pretty-Print Data Structures ([see codes](./Data_Structures/__pprint/))
+- [ ] **Algorithms** ([see codes](./Algorithms/))
+  - [ ] `functools`: Tools for Manipulating Functions ([see codes](./Algorithms/__functools/))
+  - [ ] `itertools`: Iterator Functions ([see codes](./Algorithms/__itertools/))
+  - [ ] `operator`: Functional Interface to Built-in Operators ([see codes](./Algorithms/__operator/))
+  - [ ] `contextlib`: Context Manager Utilities ([see codes](./Algorithms/__contextlib/))
