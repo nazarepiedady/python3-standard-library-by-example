@@ -112,3 +112,6 @@ Below you can find the list of the Python Standard Modules linked to its folder:
   - [ ] `fileinput`: Command-Line Filter Framework ([see codes](./Application_Building_Blocks/__fileinput/))
   - [ ] `atexit`: Program Shutdown Callbacks ([see codes](./Application_Building_Blocks/__atexit/))
   - [ ] `sched`: Timed Event Scheduler ([see codes](./Application_Building_Blocks/__sched/))
+- [ ] **Internationalization and Localization** ([see codes](./Internationalization_and_Localization/))
+  - [ ] `gettext`: Message Catalogs ([see codes](./Internationalization_and_Localization/__gettext/))
+  - [ ] `locale`: Cultural Localization API ([see codes](./Internationalization_and_Localization/__locale/))
