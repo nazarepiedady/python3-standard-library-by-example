@@ -8,3 +8,5 @@ The code here will be updated along the time to observe a more actual version
 of the Python 3 coding styles.
 
 Feel free to copy the source code and examples.
+
+Below you can find the list of the Python Standard Modules linked to its folder:
