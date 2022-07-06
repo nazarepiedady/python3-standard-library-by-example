@@ -67,3 +67,6 @@ Below you can find the list of the Python Standard Modules linked to its folder:
   - [ ] `bz2`: bzip2 Compression ([see codes](./Data_Compression_and_Archiving/__bz2/))
   - [ ] `tarfile`: Tar Archive Access ([see codes](./Data_Compression_and_Archiving/__tarfile/))
   - [ ] `zipfile`: ZIP Archive Access ([see codes](./Data_Compression_and_Archiving/__zipfile/))
+- [ ] **Cryptography** ([see codes](./Cryptography/))
+  - [ ] `hashlib`: Cryptographic Hashing ([see codes](./Cryptography/__hashlib/))
+  - [ ] `hmac`: Cryptographic Message Signing and Verification ([see codes](./Cryptography/__hmac/))
