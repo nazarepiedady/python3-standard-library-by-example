@@ -9,3 +9,5 @@ try:
     print('substitute()     :', t.substitute(values))
 except KeyError as key_error:
     print('ERROR:', str(key_error))
+
+print('safe_substitute():', t.safe_substitute(values))
