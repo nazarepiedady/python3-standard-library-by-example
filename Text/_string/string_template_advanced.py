@@ -11,3 +11,9 @@ template_text = '''
   Replaced  : %with_underscore
   Ignored   : %notunderscored
 '''
+
+
+d = {
+    'with_underscore': 'replaced',
+    'notunderscored': 'not replaced',
+}
