@@ -19,3 +19,5 @@ d = {
 }
 
 t = MyTemplate(template_text)
+print('Modified ID pattern:')
+print(t.safe_substitute(d))
