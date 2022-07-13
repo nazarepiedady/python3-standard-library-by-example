@@ -17,3 +17,5 @@ d = {
     'with_underscore': 'replaced',
     'notunderscored': 'not replaced',
 }
+
+t = MyTemplate(template_text)
